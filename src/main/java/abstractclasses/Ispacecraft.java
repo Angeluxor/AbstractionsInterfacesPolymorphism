@@ -1,4 +1,4 @@
-package AbstractClasses;
+package abstractclasses;
 
 /**
  * Representa los comportamientos básicos de una nave espacial

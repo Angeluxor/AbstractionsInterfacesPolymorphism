@@ -1,9 +1,9 @@
-package Main;
+package main;
 
-import Spacecrafts.CivilianSpacecraft;
-import Spacecrafts.MannedSpacecraft;
-import Spacecrafts.ShuttleVehicle;
-import Spacecrafts.UnmannedSpacecraft;
+import spacecrafts.CivilianSpacecraft;
+import spacecrafts.MannedSpacecraft;
+import spacecrafts.ShuttleVehicle;
+import spacecrafts.UnmannedSpacecraft;
 
 import java.util.Scanner;
 

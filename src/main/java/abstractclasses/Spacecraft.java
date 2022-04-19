@@ -1,6 +1,6 @@
-package AbstractClasses;
+package abstractclasses;
 
-import Main.SpacecraftCreation;
+import main.SpacecraftCreation;
 
 import java.util.Scanner;
 

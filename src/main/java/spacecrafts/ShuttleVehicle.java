@@ -1,7 +1,7 @@
-package Spacecrafts;
+package spacecrafts;
 
-import AbstractClasses.Spacecraft;
-import Main.SpacecraftCreation;
+import abstractclasses.Spacecraft;
+import main.SpacecraftCreation;
 
 /**
  * Representa un vehículo lanzadera que carece destino, tripulación o pasajeros
